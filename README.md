@@ -1,5 +1,8 @@
 # 🛒 User Behavior & A/A/B Testing Analysis
 
+![Project Thumbnail](Sprint11-thumbnail.png)
+
+
 ## 📌 Project Overview
 
 This project is part of **Sprint 11** for a fictional food delivery startup. The primary goals are:
